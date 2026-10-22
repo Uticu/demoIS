@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-        int make;
+        Integer make;
         //new test
 
 	}
